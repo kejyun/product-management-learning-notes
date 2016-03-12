@@ -8,6 +8,9 @@
 * [身為軟體工程師 跑 Scrum 時需要注意的二三事](http://blog.hellojcc.tw/2016/02/22/scrum-in-terms-of-developer/)
 * [Scrum與Agile敏捷開發書單和學習資源](http://funevo.com/2015/06/01/scrum-agile-shu-dan-book-list-training/)
 
+## 網站
+* [敏捷進化趣 Agile FunEvo](http://funevo.com/)
+
 ## 管理工具
 * [Teambition・最好用的團隊協作工具](https://www.teambition.com/tw/)
 * [Basecamp 3: Manage projects, groups, and client work.](https://basecamp.com/)
